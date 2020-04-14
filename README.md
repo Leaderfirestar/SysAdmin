@@ -8,3 +8,4 @@ Lab 3: <a href="https://github.com/Leaderfirestar/SysAdmin/blob/master/Lab3/Lab%
 Lab 4: <a href="https://github.com/Leaderfirestar/SysAdmin/blob/master/Lab4/Lab%23004.pdf">Groups and Permissions</a><br>
 Lab 5: <a href="https://github.com/Leaderfirestar/SysAdmin/blob/master/Lab5/Lab%20%23005.pdf">Add second DC and Configure DFS</a><br>
 Lab 6: <a href="https://github.com/Leaderfirestar/SysAdmin/blob/master/Lab6/Lab%20%23006.pdf">Intro to Group Policy</a><br>
+Lab 7: <a href="https://github.com/Leaderfirestar/SysAdmin/blob/master/Lab7/Lab%20%23007.pdf">Deploying Policy Settings and Preferences</a><br>
