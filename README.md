@@ -10,3 +10,4 @@ Lab 5: <a href="https://github.com/Leaderfirestar/SysAdmin/blob/master/Lab5/Lab%
 Lab 6: <a href="https://github.com/Leaderfirestar/SysAdmin/blob/master/Lab6/Lab%20%23006.pdf">Intro to Group Policy</a><br>
 Lab 7: <a href="https://github.com/Leaderfirestar/SysAdmin/blob/master/Lab7/Lab%20%23007.pdf">Deploying Policy Settings and Preferences</a><br>
 Lab 8: <a href="https://github.com/Leaderfirestar/SysAdmin/blob/master/Lab8/Lab%20%23008.pdf">Group Policy Maintenance and Troubleshooting</a><br>
+lab 9: <a href="https://github.com/Leaderfirestar/SysAdmin/blob/master/Lab9/JQ%20Adams.pdf">JQ Adams Case Study</a>
